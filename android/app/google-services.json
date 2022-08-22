@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "18799111259",
+    "project_id": "rn-task2-loginwithfbg",
+    "storage_bucket": "rn-task2-loginwithfbg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18799111259:android:ff2a46f86d3f1e8829e37e",
+        "android_client_info": {
+          "package_name": "com.loginwithfbg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18799111259-v061pgs8nh8mtjt5ba6pejp0iikd70p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loginwithfbg",
+            "certificate_hash": "cf0451299daba0235e9231fca9323395d51a42e1"
+          }
+        },
+        {
+          "client_id": "18799111259-nvskbtjg383assnrhvcu51ol5crdcdf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJMBiuXw0dwdCs5dJf9sOWq_6GwxgdMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18799111259-nvskbtjg383assnrhvcu51ol5crdcdf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
